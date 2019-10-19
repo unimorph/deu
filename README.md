@@ -4,7 +4,7 @@
 German
 
 
-Source: Wikipedia
+Source: Wiktionary
 
 
 License: https://creativecommons.org/licenses/by-sa/3.0/
